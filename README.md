@@ -1,4 +1,4 @@
-# Expo Scripts
+# Expo Cheat Sheet
 scripts to create an aab to apk.
 refer to expo docs  for updates.
 #### create your project
