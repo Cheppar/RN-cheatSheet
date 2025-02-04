@@ -4,6 +4,10 @@ refer to expo docs  for updates.
 #### create your project
 ` npx create-expo-app@latest `
 
+### reset project
+
+`npm run reset-project `
+
 #### Build your prototype
  
 ` eas build -p android `
