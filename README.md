@@ -1,6 +1,8 @@
 # Expo Scripts
 scripts to create an aab to apk.
 refer to expo docs  for updates.
+#### create your project
+` npx create-expo-app@latest `
 
 #### Build your prototype
  
